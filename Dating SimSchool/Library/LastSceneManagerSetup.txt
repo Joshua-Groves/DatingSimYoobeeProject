@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Science/NiceGuyScience.unity
+- path: Assets/Scenes/Homeroom/HomeroomClass.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

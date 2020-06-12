@@ -101,9 +101,9 @@ MonoBehaviour:
   m_textSpeed: 1
   m_fadeDuration: 0.5
   keyT: {fileID: 11400000, guid: f4a9ccbfad3a99846b025f449e4d6ae0, type: 2}
-  key: So what did you do to get yourself kicked out from Kita High, I heard there
-    was someone picking fights with all the other students there          and even
-    knocked out Vice principal?
+  key: "So what did you do to get yourself kicked out from Kita High, I heard there
+    was someone picking fights with all the other students there          \tand even
+    knocked out Vice principal?"
   clip: {fileID: 0}
   waitForAudioEnd: 0
   waitForInput: 1
@@ -732,8 +732,8 @@ MonoBehaviour:
   m_fadeDuration: 0.5
   keyT: {fileID: 11400000, guid: f4a9ccbfad3a99846b025f449e4d6ae0, type: 2}
   key: "Surely you can start making an impact here too? We were planning to steal
-    some hazardous chemicals from saito sensei's \tdesk, that's easy work for you
-    right?"
+    some hazardous chemicals from saito sensei's \t       desk, that's easy work
+    for you right?"
   clip: {fileID: 0}
   waitForAudioEnd: 0
   waitForInput: 1
